@@ -24,7 +24,7 @@ font-size: 2rem;
 margin: 15px 0;
 font-size: 18px;    
 }
-.cta-button{
+.call-to-action-button{
 background: #f9f9f9;
 color: #4a90e2;
 padding: 10px 20px;
@@ -66,6 +66,10 @@ align-items: center;
 background: #333; 
 }
 .p-footer{
+color: #fff;    
+}
+.email{
+text-decoration: none;
 color: #fff;    
 }
 .media{
